@@ -1,0 +1,6 @@
+framework module SelectPhoto {
+  umbrella header "SelectPhoto.h"
+
+  export *
+  module * { export * }
+}
